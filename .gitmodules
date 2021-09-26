@@ -1,0 +1,3 @@
+[submodule "Assets/Submodule/TS_Util"]
+	path = Assets/Submodule/TS_Util
+	url = https://github.com/sunshinetomy/TS_Util.git
